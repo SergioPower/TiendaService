@@ -1,6 +1,5 @@
 package com.tienda.service;
 
-import java.util.List;
 
 public class Producto {
     private int id;

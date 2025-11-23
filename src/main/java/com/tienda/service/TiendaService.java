@@ -5,9 +5,6 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import com.tienda.service.Producto;
-import com.tienda.service.Cliente;
-import com.tienda.service.Venta;
 
 public class TiendaService {
     List<Producto> productos;
